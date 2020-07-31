@@ -29,7 +29,7 @@ Met behulp van extensions voor VS Code kun je de functionaliteiten van de editor
 
 ## Eindresultaat
 
-Een bestand genaamd `taak01.txt` in de map voor deze taak.
+Een bestand genaamd `taak01.txt` in de map voor deze taak
 
 ## Bronnen
 
