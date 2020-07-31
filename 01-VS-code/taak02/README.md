@@ -19,7 +19,7 @@ In jouw gereedschapskist is jouw editor misschien wel het belangrijkste stuk ger
 
 1. Ga naar de [docs voor Visual Studio Code](https://code.visualstudio.com/docs/getstarted/userinterface) en bekijk de kopjes **User Interface** en **Basic Layout**.
 2. Open de map voor deze repository via `File > Open Folder` of <kbd>CTRL</kbd>+<kbd>K</kbd><kbd>CTRL</kbd>+<kbd>O</kbd> (deze shortcut werkt door eerst de CONTROL toets met de K toets in de drukken en daarna de CONTROL toet met de O toets).
-3. Open de Explorer binnen VS Code via de Activity Bar of <kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>E</kbd> als deze nog niet open staat en navigeer naar `01-VS-code\taak02`. Als je met je muis over de Side Bar gaat verschijnen er icoontjes om een nieuw bestand of map aan te maken. Maak een nieuw bestand aan genaamd `taak02.txt` en zet daarin een lijstje van de 5 interface onderdelen zoals die in [docs voor Visual Studio Code](https://code.visualstudio.com/docs/getstarted/userinterface) staan beschreven.
+3. Als de Explorer nog niet open staat, open je die binnen VS Code via de Activity Bar of <kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>E</kbd>. Navigeer naar `01-VS-code\taak02`. Als je met je muis over de Side Bar gaat, verschijnen er icoontjes om een nieuw bestand of map aan te maken. Maak een nieuw bestand aan genaamd `taak02.txt` en zet daarin een lijstje van de 5 interface-onderdelen zoals die in [docs voor Visual Studio Code](https://code.visualstudio.com/docs/getstarted/userinterface) staan beschreven.
 
 ## Eindresultaat
 
