@@ -4,15 +4,15 @@
 
 ## Uitleg
 
-Net als dat een timmerman goed meer leren omgaan met zijn gereedschap om zijn vak écht goed te kunnen uitvoeren is het voor een software ontwikkelaar belangrijk dat hij of zij goed leert omgaan met de tools van van het vak. 
+Net als een timmerman goed moet leren omgaan met zijn gereedschap om zijn vak écht goed te kunnen uitvoeren is het voor een software-ontwikkelaar belangrijk dat hij of zij goed leert omgaan met de tools van van het vak. 
 
-In jouw gereedschapskist is jouw editor misschien wel het belangrijkste stuk gereedschap om goed onder de knie te krijgen. VS Code is gebouwt om jouw het leven gemakkelijker te maken terwijl je software schrijft dus het loont om je daarin te verdiepen.
+In jouw gereedschapskist is jouw editor misschien wel het belangrijkste stuk gereedschap. VS Code is gebouws om jouw het leven gemakkelijker te maken terwijl je software schrijft, dus het loont de moeite om je daarin te verdiepen.
 
-> Als je merkt dat je meerdere keren eenzelfde actie uitvoert tijdens je werk kan het zijn dat er een gemakkelijkere of snellere manier is om die actie uit te voeren. Je bent vrijwel nooit de eerste die tegen iets aanloopt dus google even naar een handige oplossing zodat je nog effecienter kan werken! Zie: [Is het je tijd waard? XKCD](https://xkcd.com/1205/)
+> Als je merkt dat je meerdere keren eenzelfde actie uitvoert tijdens je werk kan het zijn dat er een gemakkelijkere of snellere manier is om die actie uit te voeren. Je bent vrijwel nooit de eerste die tegen iets aanloopt, dus google even naar een handige oplossing zodat je nog effecienter kan werken! Zie: [Is het je tijd waard? XKCD](https://xkcd.com/1205/)
 
 ## Leerdoelen
 
-1. [ ] Ik kan de verschillende interface elementen binnen VS Code benoemen
+1. [ ] Ik kan de verschillende interface-elementen binnen VS Code benoemen
 2. [ ] Ik kan een een map openen en daarin navigeren via de Explorer in VS Code 
 
 ## Opdracht
