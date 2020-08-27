@@ -16,7 +16,13 @@ Voor de komende taken gebruiken we het onderstaande schema om een visueel beeld 
 
 ### Working Directory
 
+Links boven in bovenstaand schema zie je in groen de term Working Directory staan. Een directory is een ouderwetse engelse benaming voor een folder oftewel map. De Working Directory is dus de map waarin je op dit moment aan het werk bent.
 
+Als je een bestaande repository opent zoals deze van de DEVOPS module dan is Git al op de hoogte van het bestaan van alle bestanden in de Working Directory. De bestanden worden door Git *getracked*'. Maar wat als je een nieuw bestand aanmaakt? 
+
+Een bestand dat voor Git nieuw is moet handmatig worden toegevoegd aan de repository. Dit toevoegen van een bestand doe je door het `git add` commando gevolgd door de bestandnaam uit te voeren in de terminal binnen VS Code. Maar dit kan gemakkelijker via de VS Code user interface door te kijken in het Source Control paneel <kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>G</kbd>.
+
+Hier zie je een lijst van alle bestanden in je Working Directory waarvan Git heeft gemerkt dat je er iets aan veranderd hebt. 
 
 ## Leerdoelen
 
