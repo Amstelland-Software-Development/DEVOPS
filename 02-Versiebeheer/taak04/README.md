@@ -22,7 +22,13 @@ Als je een bestaande repository opent zoals deze van de DEVOPS module dan is Git
 
 Een bestand dat voor Git nieuw is moet handmatig worden toegevoegd aan de repository. Dit toevoegen van een bestand doe je door het `git add` commando gevolgd door de bestandnaam uit te voeren in de terminal binnen VS Code. Maar dit kan gemakkelijker via de VS Code user interface door te kijken in het Source Control paneel <kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>G</kbd>.
 
-Hier zie je een lijst van alle bestanden in je Working Directory waarvan Git heeft gemerkt dat je er iets aan veranderd hebt. 
+Hier zie je een lijst van alle bestanden in je Working Directory waarvan Git heeft gemerkt dat je er iets aan veranderd hebt, zie onderstaand voorbeeld.
+
+![Source Control panel](/02-Versiebeheer/taak04/gfx/vs-code-source-control-panel.jpg) 
+
+In bovenstaand voorbeeld zie je onder het kopje `changes` twee bestanden staan: `README.MD` met daarachter een gekleurde M (die staat voor Modified; Aangepast in het nederlands) en een tweede bestand genaamd `nieuw-bestand.txt` met daarachter een U (die staat voor Untracked; niet gevolgd). 
+
+Als je op het plusje klikt naast de bestandsnaam van het `nieuw-bestand.txt` bestand waarvan Git dus nog niet de versiegeschiedenis bijhoudt dan voeg je dit best
 
 ## Leerdoelen
 
