@@ -1,6 +1,6 @@
 # DEVOPS-TAAK-NR07
 
-## Clone, pull & push
+## Pull & push
 
 ## Uitleg
 
