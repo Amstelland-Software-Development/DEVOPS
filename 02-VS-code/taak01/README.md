@@ -8,7 +8,7 @@ Net als dat een timmerman goed meer leren omgaan met zijn gereedschap om zijn va
 
 In jouw gereedschapskist is jouw editor misschien wel het belangrijkste stuk gereedschap om goed onder de knie te krijgen. VS Code is gebouwt om jouw het leven gemakkelijker te maken terwijl je software schrijft dus het loont om je daarin te verdiepen.
 
-> Als je merkt dat je meerdere keren eenzelfde actie uitvoert tijdens je werk kan het zijn dat er een gemakkelijkere of snellere manier is om die actie uit te voeren. Je bent vrijwel nooit de eerste die tegen iets aanloopt dus google even naar een handige oplossing zodat je nog effecienter kan werken! Zie: [Is het je tijd waard? XKCD](https://xkcd.com/1205/)
+> Als je merkt dat je meerdere keren eenzelfde actie uitvoert tijdens je werk kan het zijn dat er een gemakkelijkere of snellere manier is om die actie uit te voeren. Je bent vrijwel nooit de eerste die tegen iets aanloopt dus google even naar een handige oplossing zodat je nog effecienter kan werken! 
 
 ## Leerdoelen
 
@@ -23,7 +23,7 @@ In jouw gereedschapskist is jouw editor misschien wel het belangrijkste stuk ger
 
 ## Eindresultaat
 
-
+Een tekstbestand genaamd `taak02.txt` met daarin een lijstje met VS Code interface elementen.
 
 ## Bronnen
 

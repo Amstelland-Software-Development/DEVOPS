@@ -1,6 +1,6 @@
 # DEVOPS-TAAK-NR03
 
-## Instellingen
+## Handige instellingen VS Code
 
 ## Uitleg
 

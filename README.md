@@ -4,13 +4,20 @@
 
 In deze module leer je omgaan met versiebeheer met Git en Github en de Visual Studio Code editor van Microsoft. Daarnaast worden er een aantal handige mogelijkheden van de ingebouwde Developer Tools in de Chrome browser uitgelegd.
 
-- 01-VS Code
+Tijdens andere modules ga je echt aan de slag met de dingen die we in deze module bespreken. Als het nodig is dan wordt er terugverwezen naar deze module of wordt de uitleg nog een keer herhaald. Voor nu is het belangrijk dat je een aantal instellingen / installaties hebt gedaan en dat je weet hebt van een deel van de vele mogelijkheden van de software waar je tijdens de opleiding veel mee zult werken.
+
+- 00 - Voorbereiding
   - Taak01 > Installatie Visual Studio Code
-  - Taak02 > Introductie Visual Studio Code
-  - Taak03 > Instellingen 
-  - Taak04 > Extensies
-  - Taak05 > Terminal & problemen paneel
-- 02-Versiebeheer
+  - Taak02 > Git & Github
+- 01 - Eagle
+  - Taak01 > Een nieuwe module starten in Eagle
+  - Taak02 > Het lesmateriaal downloaden
+- 02 - VS Code
+  - Taak01 > Introductie Visual Studio Code
+  - Taak02 > Handige instellingen VS Code
+  - Taak03 > Extensies
+  - Taak04 > Terminal & problemen paneel
+- 03 - Versiebeheer
   - Taak01 > Wat is versiebeheer?
   - Taak02 > Git & github
   - Taak03 > Repositories
@@ -19,7 +26,7 @@ In deze module leer je omgaan met versiebeheer met Git en Github en de Visual St
   - Taak06 > Branches & Checkout
   - Taak07 > Clone, pull & push
   - Taak08 > Merge conflicts
-- 03-Devtools
+- 04 - Devtools
   - Taak01 > Devtools openen in Chrome
   - Taak02 > Instellingen Devtools
   - Taak03 > Elements

@@ -2,6 +2,8 @@
 
 ## Git & Github
 
+**LETOP: ook als je Git al hebt geinstalleerd: lees de onderstaande taak goed door en zorg ervoor dat alles werkt zoals verwacht wordt.**
+
 ## Uitleg
 
 Het werken met een versiebeheer systeem zoals Git is vaak in het begin verwarrend. Dat is helemaal Ok, de ervaring leert dat het werken met Git vooral duidelijk wordt wanneer je het echt zelf gaat gebruiken.
@@ -14,7 +16,7 @@ Wel is het belangrijk dat je goed weet hoe wat het verschil is tussen Git en Git
 
 Github is een online dienst waarmee je samen kan werken aan het ontwikkelen van software. De code die schrijft en lokaal op jouw laptop wordt opgeslagen kun je synchroniseren met Github. Zo kan een docent meekijken naar het werk dat je voor jouw opleiding doet maar is het straks als je op zoek gaat naar een stageplek of aan de slag gaat als ontwikkelaar na je opleiding ook een plek waar zij kunnen zien wat je allemaal hebt gedaan op qua software ontwikkeling.
 
-De volgende taken in deze module maken je wegwijs in de werking van Git en Github maar voor nu gaan we beginnen met het installeren van Git en een account aanmaken op Github.
+Opvolgende taken in deze module maken je wegwijs in de werking van Git en Github maar voor nu gaan we beginnen met het installeren van Git, wat instellingen doen en een account aanmaken op Github.
 
 ## Leerdoelen
 
