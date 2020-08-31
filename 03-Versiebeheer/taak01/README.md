@@ -4,9 +4,9 @@
 
 ## Uitleg
 
-Software schrijven doe je soms alleen maar ook vaak samen in een team. Als ja alleen werkt kun je in principe gemakkelijk voor jezelf bijhouden wat de laatste versie is van je werk. Een methode die veel gebruikt wordt is het toevoegen van een versienummer aan de bestandsnaam (zoals bij Microsoft Office documenten: `document_v1.docx`, `document_v2.docx`, etc).
+Software schrijven doe je soms alleen maar ook vaak in een team. Als je alleen werkt, kun je in principe gemakkelijk voor jezelf bijhouden wat de laatste versie is van je werk. Een methode die veel gebruikt wordt is het toevoegen van een versienummer aan de bestandsnaam (zoals bij Microsoft Office documenten: `document_v1.docx`, `document_v2.docx`, etc).
 
-Dit werkt prima als je de enige bent die aan iets werkt en je binnen een enkel bestand bezig bent. Zodra je echter werkt aan een project waarbij meerdere bestanden samen één versie vormen wordt het al lastiger. Laat staan als je op een slimme manier wilt samenwerken met anderen.
+Dit werkt prima als je de enige bent die aan iets werkt en je binnen een enkel bestand bezig bent, maar zodra je werkt aan een project waarbij meerdere bestanden samen één versie vormen, wordt het al lastiger. Als je op een slimme manier wilt samenwerken met anderen, wordt het nog lastiger.
 
 Dit is natuurlijk een probleem dat elk software ontwikkeling team ervaart en dus zijn er in de loop van tijd verschillende systemen bedacht om hiermee om te gaan. Het versiebeheer systeem dat op dit moment het meest gebruikt wordt is [Git](https://nl.wikipedia.org/wiki/Git_(software)).
 
@@ -14,7 +14,7 @@ In verdere opdrachten van deze module gaan we Git installeren en voor de eerste 
 
 ## Leerdoelen
 
-1. [ ] Ik weet wat versiebeheer inhoud en waarom dit gebruikt wordt tijdens de ontwikkeling van software
+1. [ ] Ik weet wat versiebeheer inhoudt en waarom dit gebruikt wordt tijdens de ontwikkeling van software
 
 ## Opdracht
 
