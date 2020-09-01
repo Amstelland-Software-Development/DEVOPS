@@ -1,6 +1,6 @@
-# DEVOPS-TAAK-NR07
+# DEVOPS-TAAK-NR08
 
-## Pull & push
+## Merge conflicts
 
 ## Uitleg
 

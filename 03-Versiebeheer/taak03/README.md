@@ -1,41 +1,36 @@
-# DEVOPS-TAAK-NR03
+# DEVOPS-TAAK-NR06
 
-## Repositories, local & remote en Git Clone
+## Git Commit
 
 ## Uitleg
 
-Het is belangrijk dat je alvast de terminologie die gebruikelijk is in Git leert kennen. In deze taak gaan we leren wat een Git Repository is.
+We hebben al gezien hoe je de bestanden die bij een module horen kan downloaden (clonen) naar je computer. De volgende stap is het toevoegen van de veranderingen die je aanbrengt in de code die dus nu lokaal staat aan de lokale repository.
 
-Je bent misschien al gewend om met bestanden en mappen te werken in Windows of op een Mac. Wat Git doet is een laagje daarover heen gooien zodat Git zijn werk kan doen. 
+### Een commit maken
 
-Op het moment dat je een map hebt met daarin de bestanden waarin je code schrijft, de zgn broncode, kun je Git de opdracht geven om de veranderingen in deze bestanden bij te houden. Wat Git dan doet is een submapje aanmaken genaamd `.git`. Dit is standaard een verborgen map en je hoeft daar zelf niks mee te doen verder. Het programma Git beheert dit mapje, later meer daarover.
+Wat je dus eigenlijk doet is het opslaan van een bepaalde versie van bestanden in de lokale repository. Zo'n snapshot van de staat van een of meerdere bestanden noem je in Git termen een `commit`. De actie die je daarvoor uitvoert noem je dan ook het `committen` van je code.
 
-> DEFINITIE: Binnen de Git terminologie noem je zo'n map met broncode die beheerd wordt door Git een **Repository**.
+Als je aan het werk bent in een project ben je vaak in meedere bestanden tegelijk bezig en focus je je op wat je aan het maken bent. Als je goed is heb je VS Code zo ingesteld dat deze automatisch bestanden voor je opslaat (of doe je dit zelf constant met <kbd>CTRL</kbd>+<kbd>S</kbd>) én werk je in een onedrive map zodat er ook altijd een versie online staat.
 
-Zo'n zgn repository kan bestaan op je laptop (**local**) of gehost worden door een online dienst zoals Github (**remote**). 
+### Commite message
 
-Wat we in deze taak gaan doen is het downloaden van een op Github gehoste repository naar jouw laptop.
-> DEFINITIE: het downloaden van de bestanden (*én versie geschiedenis!*) van een repository noem je in Git terminologie **Clonen**.
+Git kan de veranderingen in honderden tot vele duizenden bestanden efficient voor je bijhouden maar dat wil niet zeggen dat jij zelf op basis van die veranderingen goed kan zien met welke versie van een bepaald bestand je te maken hebt. Laat staan wanneer het gaat om veranderingen van meerdere bestanden samen. Daarom schrijf je altijd een kort stukje tekst, een zgn Commit Message als je bestanden toevoegd aan een repository. Op basis van die commit message kan jij dan zien wat er veranderd is. Het is dus belangrijk dat je een heldere, duidelijke beschrijving geeft van de verandering. In dit geval is de ongeschreven regel dat een Commit Message schrijft zoals added nieuw-bestand.txt of added new text file.
+
+Als je een korte bondige Message hebt bedacht en je op het vinkje boven aan het Source Control paneel klikt dan wordt alles wat er op dat moment gestaged is toegevoegd aan je lokale repository. We kunnen dan weer aan de slag met coderen en mochten we echt van alles door de war schoppen dan kan je altijd weer terug naar staat van de bestanden zoals die was toen je ze toevoegde aan de repository.
+
+LETOP: de veranderingen in je bestanden zijn pas opgeslagen in de repository als je een `commit` hebt gemaakt. De regel als je met Git werkt is: Commit vroeg en commit vaak. Oftewel commit je code voordat hij helemaal af is en doe dit bij voorkeur zo vaak mogelijk.
+
+In deze taak gaan we een eerste commit doen binnen VS Code.
 
 ## Leerdoelen
 
-1. Ik kan in 2 zinnen uitleggen wat er bedoeld wordt met een Git Repository.
-2. Ik kan een clone maken van een remote repository
+1. Ik kan een commit maken in VS Code
 
 ## Opdracht
 
-1. Ga naar Github.com en log in. Als het goed is staat er een repository genaamd DEVOPS onder je account. Open die repository (door op de naam te klikken) en zoek naar de groene CODE knop, als je daarop klikt kun je een link kopieren. De link ziet er ongeveer zo uit: `https://github.com/<jouw github account naam>/DEVOPS.git` en eindigt op `.git`.
-2. Als je dat nog niet hebt gedaan maak een map aan op je onedrive genaamd b.v. jaar1. (In deze map komen de bestanden van alle modules die je gaat doen). Open VS Code en open de net aangemaakt map. Open in VS Code een nieuwe terminal en voor het onderstaande commando uit:
-```cmd
-git clone https://github.com/<jouw github account naam>/DEVOPS.git
-```
-3. Als Git goed zijn werk doet maakt Git een submap aan genaamd DEVOPS met daarin al het lesmateriaal voor deze module.
-4. Open nu in VS Code alleen de net aangemaakte map genaamd DEVOPS. Ga naar je Project Manager tab in de Activity Bar en sla deze map op als favoriet project. 
+1. Open het bestand `test.txt` dat in de map van deze taak staat en corrigeer de spelfout. Als het goed is zie je bij het Source Control ikoon in de Activity Bar een tellertje verspringen. Open het Source Control paneel en voer de onderstaande stappen uit:
+2. Ga naar het Source Control paneel en vul een  
 
 ## Eindresultaat
 
-Je hebt een map onder je onedrive map staan genaamd `jaar1` met daarin een submap genaamd `DEVOPS` met daarin al het lesmateriaal voor deze module. Daarnaast heb je een favoriet project aangemaakt via de Project Manager zodat je snel deze module kunt openen in VS Code.
-
 ## Bronnen
-
-Geen Project Manager geinstalleerd? Kijk bij `01-VS-code\Taak04` om dit alsnog te doen.

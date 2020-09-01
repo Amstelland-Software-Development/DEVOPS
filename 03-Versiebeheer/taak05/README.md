@@ -1,6 +1,6 @@
-# DEVOPS-TAAK-NR05
+# DEVOPS-TAAK-NR07
 
-## Commits & commit messages
+## Git Push
 
 ## Uitleg
 

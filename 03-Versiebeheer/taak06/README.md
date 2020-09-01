@@ -1,6 +1,6 @@
-# DEVOPS-TAAK-NR06
+# DEVOPS-TAAK-NR07
 
-## Branches & Checkout
+## Pull & push
 
 ## Uitleg
 

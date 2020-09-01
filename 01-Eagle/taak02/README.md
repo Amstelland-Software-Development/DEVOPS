@@ -4,7 +4,7 @@
 
 ## Uitleg
 
-De eeste modules heb je volledig binnen Eagle afgehandeld. Je kon de instructies lezen, de taken uitvoeren en deze afvinken binnen dit systeem. Voor de komende modules zal je echt met programmeren aan de slag gaan en dus code schrijven in verschillende bestanden. Soms krijg je ook code aangeleverd en moet je deze alleen aanpassen, soms moet je nieuwe bestanden aanmaken voor een bepaalde taak. Je levert je code in door deze bestanden te uploaden naar Github. Dit uploaden wordt verzorgd door Git, later in deze module leer je hoe je dit doet.
+De eeste modules heb je volledig binnen Eagle afgehandeld. Je kon de instructies lezen, de taken uitvoeren en deze afvinken binnen dit systeem. Voor de komende modules zal je echt met programmeren aan de slag gaan en dus code schrijven in verschillende bestanden. Soms krijg je ook code aangeleverd en moet je deze alleen aanpassen, soms ga je ook nieuwe bestanden aanmaken voor een bepaalde taak. Je levert je code in door deze bestanden te uploaden naar Github. Dit uploaden wordt verzorgd door Git, later in deze module leer je hoe je dit doet.
 
 In deze taak gaan we het lesmateriaal dat bij een module hoort kopieren naar jouw laptop zodat je daar lokaal in kan werken en gemaakt werk kan inleveren.
 
