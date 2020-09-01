@@ -21,6 +21,7 @@ In deze module leer je omgaan met versiebeheer met Git en Github en de Visual St
   - Taak02 > Git en Repositories
   - Taak03 > Git Commit
   - Taak04 > Git Push
+  - Taak05 > Git Overview
 
 ## Leerdoelen
 

@@ -14,7 +14,7 @@ Als je aan het werk bent in een project ben je vaak in meedere bestanden tegelij
 
 ### Commite message
 
-Git kan de veranderingen in honderden tot vele duizenden bestanden efficient voor je bijhouden maar dat wil niet zeggen dat jij zelf op basis van die veranderingen goed kan zien met welke versie van een bepaald bestand je te maken hebt. Laat staan wanneer het gaat om veranderingen van meerdere bestanden samen. Daarom schrijf je altijd een kort stukje tekst, een zgn Commit Message als je bestanden toevoegd aan een repository. Op basis van die commit message kan jij dan zien wat er veranderd is. Het is dus belangrijk dat je een heldere, duidelijke beschrijving geeft van de verandering. In dit geval is de ongeschreven regel dat een Commit Message schrijft zoals added nieuw-bestand.txt of added new text file.
+Git kan de veranderingen in honderden tot vele duizenden bestanden efficient voor je bijhouden maar dat wil niet zeggen dat jij zelf op basis van die veranderingen goed kan zien met welke versie van een bepaald bestand je te maken hebt. Laat staan wanneer het gaat om veranderingen van meerdere bestanden samen. Daarom schrijf je altijd een kort stukje tekst, een zgn Commit Message als je bestanden toevoegd aan een repository. Op basis van die commit message kan jij dan zien wat er veranderd is. Het is dus belangrijk dat je een heldere, duidelijke beschrijving geeft van de verandering. In dit geval is de ongeschreven regel dat een Commit Message schrijft zoals `added nieuw-bestand.txt` of `update index.html`.
 
 Als je een korte bondige Message hebt bedacht en je op het vinkje boven aan het Source Control paneel klikt dan wordt alles wat er op dat moment gestaged is toegevoegd aan je lokale repository. We kunnen dan weer aan de slag met coderen en mochten we echt van alles door de war schoppen dan kan je altijd weer terug naar staat van de bestanden zoals die was toen je ze toevoegde aan de repository.
 
@@ -29,7 +29,9 @@ In deze taak gaan we een eerste commit doen binnen VS Code.
 ## Opdracht
 
 1. Open het bestand `test.txt` dat in de map van deze taak staat en corrigeer de spelfout. Als het goed is zie je bij het Source Control ikoon in de Activity Bar een tellertje verspringen. Open het Source Control paneel en voer de onderstaande stappen uit:
-2. Ga naar het Source Control paneel en vul een  
+2. Ga naar het Source Control paneel en vul als commit message in `spellfout gefixed` en druk op het vinkje om 
+
+
 
 ## Eindresultaat
 
