@@ -4,13 +4,15 @@
 
 ## Uitleg
 
-Het is belangrijk dat je alvast de terminologie die gebruikelijk is in Git leert kennen. In deze taak gaan we leren wat een **Git Repository** is.
+In deze taak gaan we leren wat een **Git Repository** is.
+
+Je bent misschien al gewend om met bestanden en mappen te werken in Windows of op een Mac. Je kunt Git zien als een laagje daarboven op die voor jou het versiebeheer doet. 
+
+Git kent een aantal concepten en handelingen die lijken op wat je al kent als je met bestanden hebt gewerkt zoals opslaan en kopieren maar die wel binnen Git een eigen naam hebben gekregen. Het is belangrijk dat je alvast de terminologie die gebruikelijk is in Git leert kennen maar maak je geen zorgen we beginnen alleen met de dingen die je nodig hebt om goed te kunnen werken met Eagle.
 
 ### Wat is een repository?
 
-Je bent misschien al gewend om met bestanden en mappen te werken in Windows of op een Mac. Wat Git doet is een laagje daarover heen gooien zodat Git zijn werk kan doen. 
-
-Op het moment dat je een map hebt met daarin de bestanden waarin je code schrijft, de zgn *broncode*, kun je Git de opdracht geven om de veranderingen in deze bestanden bij te houden. 
+Op het moment dat je een map hebt met daarin de bestanden waarin je code schrijft, de zgn *broncode*, kun je Git de opdracht geven om de veranderingen in deze bestanden bij te houden. Zo'n verzameling mappen en bestanden waarvan Git de versies bijhoudt noem je een **Repository**.
 
 > Wat Git dan doet is een submapje aanmaken genaamd `.git`. Dit is standaard een verborgen map en je hoeft daar zelf niks mee te doen. Git beheert de inhoud van dit mapje voor je en wij vertellen Git wat het moet doen.
 
@@ -35,7 +37,7 @@ Als je een bepaalde versie van de bestanden in een project opslaat in je lokale 
  
 1. Open de map die bij deze module hoort in VS Code. Ga naar het `Source Control` paneel door dit te kiezen uit de Activity Bar links of door de sneltoets <kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>G</kbd>
 2. In dit paneel zie je alle veranderingen die door Git zijn opgemerkt. Ga terug naar de File Explorer en maak een nieuw bestand aan in de map `03-versiebeheer/taak02` genaamd `test.txt`.
-3. Check in het Source Control paneel of Git dit nieuwe bestand heeft opgemerkt.
+3. Check in het Source Control paneel of Git dit nieuwe bestand heeft opgemerkt. In de volgende taak gaan we leren hoe je zo'n bestand toevoegd aan de Git Repository.
 
 ## Eindresultaat
 
