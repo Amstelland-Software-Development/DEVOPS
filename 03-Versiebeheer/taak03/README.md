@@ -4,7 +4,7 @@
 
 ## Uitleg
 
-We hebben al gezien hoe je de bestanden die bij een module horen kan downloaden (clonen) naar je computer. De volgende stap is het toevoegen van de veranderingen die je aanbrengt in de code die dus nu lokaal staat aan de lokale repository.
+We hebben al gezien hoe je de bestanden die bij een module horen kan downloaden (clonen) naar je computer. De volgende stap is het toevoegen van de veranderingen die je aanbrengt in de code, die dus nu lokaal staat aan de lokale repository.
 
 ### Een commit maken
 
