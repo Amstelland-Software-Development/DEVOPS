@@ -1,4 +1,4 @@
-# DEVOPS-TAAK-NR05
+# DEVOPS-TAAK-05
 
 ## Git Overview
 
@@ -21,14 +21,14 @@ Als je aan het werk bent in Eagle en begint met een nieuwe module, dan zal je al
 
 ## Leerdoelen
 
-1. [ ] Ik kan 
+1. Ik ken de workflow voor het werken met Eagle, Git en Github en kan deze toepassen binnen VS Code.
 
 ## Opdracht
 
-
-
+1. Geen opdrachten voor deze taak :) In de eindopdracht gaan we de stappen voor het werken met Eagle, Git en Github nog een keer herhalen maar dan met echte code inplaats van `test.txt`.
+   
 ## Eindresultaat
 
-
+Je hebt VS Code geinstalleerd, een aantal settings veranderd en wat handige extensies geinstalleerd. Je hebt Git geinstalleerd en de instellingen gedaan om ervoor te zorgen dat Git snapt wie er Commits maakt. Je hebt een account aangemaakt op Github en al een keer geoefend met het clonen van een repository met lesmateriaal van een module, een commit doen en de aangepaste repository pushen naar Github.
 
 ## Bronnen
