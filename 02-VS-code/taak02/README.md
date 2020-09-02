@@ -17,10 +17,10 @@ Je kunt alle instellingen en acties in VS Code uitvoeren door deze te selecteren
 
 ## Leerdoelen
 
-1. [ ] Ik weet waar ik de instellingen van VS Code kan vinden.
-2. [ ] Ik weet hoe ik het Command-Palette kan openen.
-3. [ ] Ik weet hoe ik een kleur thema kan instellen binnen VS Code.
-4. [ ] Ik hoe ik het de auto-save-feature aan kan zetten binnen VS Code.
+1. Ik weet waar ik de instellingen van VS Code kan vinden.
+2. Ik weet hoe ik het Command-Palette kan openen.
+3. Ik weet hoe ik een kleur thema kan instellen binnen VS Code.
+4. Ik hoe ik het de auto-save-feature aan kan zetten binnen VS Code.
 
 ## Opdracht
 

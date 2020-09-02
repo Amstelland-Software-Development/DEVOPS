@@ -16,7 +16,7 @@ Als het goed is heb je Git al geïnstalleerd en werkend op je laptop en daarnaas
 
 ## Leerdoelen
 
-1. [ ] Ik weet wat versiebeheer is en waarom het gebruikt wordt tijdens het ontwikkelen van software.
+1. Ik weet wat versiebeheer is en waarom het gebruikt wordt tijdens het ontwikkelen van software.
 
 ## Opdracht
 

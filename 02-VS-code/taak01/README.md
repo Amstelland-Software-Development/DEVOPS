@@ -12,8 +12,8 @@ In jouw gereedschapskist is jouw editor misschien wel het belangrijkste stuk ger
 
 ## Leerdoelen
 
-1. [ ] Ik kan de verschillende interface-elementen binnen VS Code benoemen
-2. [ ] Ik kan een een map openen en daarin navigeren via de Explorer in VS Code 
+1. Ik kan de verschillende interface-elementen binnen VS Code benoemen
+2. Ik kan een een map openen en daarin navigeren via de Explorer in VS Code 
 
 ## Opdracht
 

@@ -10,7 +10,7 @@ Je kunt het filter bovenaan gebruiken om op naam te zoeken naar extensies. Als j
 
 ## Leerdoelen
 
-1. [ ] Ik kan Extensies installeren binnen VS Code 
+1. Ik kan Extensies installeren binnen VS Code 
 
 ## Opdracht
 
