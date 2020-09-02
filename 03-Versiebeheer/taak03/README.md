@@ -10,7 +10,7 @@ We hebben al gezien hoe je de bestanden die bij een module horen kan downloaden 
 
 Wat je dus eigenlijk doet is het opslaan van een bepaalde versie van bestanden in de lokale repository. Zo'n snapshot van de staat van een of meerdere bestanden noem je in Git termen een `commit`. De actie die je daarvoor uitvoert noem je dan ook het `committen` van je code.
 
-Als je aan het werk bent in een project ben je vaak in meedere bestanden tegelijk bezig en focus je je op wat je aan het maken bent. Als je goed is heb je VS Code zo ingesteld dat deze automatisch bestanden voor je opslaat (of doe je dit zelf constant met <kbd>CTRL</kbd>+<kbd>S</kbd>) én werk je in een onedrive map zodat er ook altijd een versie online staat.
+Als je aan het werk bent in een project, ben je vaak in meedere bestanden tegelijk bezig en focus je je op wat je aan het maken bent. Als je goed is heb je VS Code zo ingesteld dat deze automatisch bestanden voor je opslaat (of doe je dit zelf constant met <kbd>CTRL</kbd>+<kbd>S</kbd>) én werk je in een onedrive map zodat er ook altijd een versie online staat.
 
 ### Commite message
 
