@@ -11,6 +11,7 @@ Tot nu toe hebben we alles klaar gezet en even geoefend voor het werken met Eagl
 * Je kopieert een remote-repository naar jouw laptop door te **Clonen**.
 * Een **Commit** is een snapshot van één of meerdere bestanden en mappen op een bepaald tijdstip. De versie van de bestanden zoals die op dat moment zijn, sla je op in een **Repository**.
 * Het maken van zo'n snapshot noem je **Comitten** en doe je zo vaak mogelijk, ook als je code nog niet helemaal klaar is.
+* Om de verschillende commits goed van elkaar te kunnen onderscheiden schrijf je een korte, duidelijke **Commit Message**.
 * Het kopiëren van je lokale repository naar een remote-repository, zoals die op Github staat, noem je **pushen**.
 
 Als je aan het werk bent in Eagle en begint met een nieuwe module, dan zal je altijd de onderstaande stappen doorlopen:

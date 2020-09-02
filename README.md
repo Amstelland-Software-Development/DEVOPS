@@ -23,8 +23,3 @@ In deze module leer je omgaan met versiebeheer met Git en Github en de Visual St
   - Taak04 > Git Push
   - Taak05 > Git Overview
 
-## Leerdoelen
-
-1. [ ] Ik kan...
-
-## Bronnen

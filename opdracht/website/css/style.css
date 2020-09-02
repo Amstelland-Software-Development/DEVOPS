@@ -1,0 +1,33 @@
+body{
+    background-color: aquamarine;
+}
+
+div h1{
+    width: 200px;
+}
+
+
+.poster{
+    display: inline-block;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px black;
+}
+
+.posterimg{
+    width: 200px;
+    height: 300px;
+}
+
+#poster1{
+    background-color: blue;
+}
+
+#poster2{
+    background-color: blue;
+}
+
+#poster3{
+    background-color: blue;
+}

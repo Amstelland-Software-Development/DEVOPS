@@ -20,9 +20,9 @@ Met behulp van extensions voor VS Code kun je de functionaliteiten van de editor
 
 ## Leerdoelen
 
-1. [ ] Ik kan het verschil tussen een editor en IDE in één zin omschrijven
-2. [ ] Ik kan de Visual Studio Code editor downloaden en installeren
-3. [ ] Ik kan de Visual Studio Code editor opstarten en een nieuw bestand aanmaken en opslaan.
+1. Ik kan het verschil tussen een editor en IDE in één zin omschrijven
+2. Ik kan de Visual Studio Code editor downloaden en installeren
+3. Ik kan de Visual Studio Code editor opstarten en een nieuw bestand aanmaken en opslaan.
 
 ## Opdracht
 
