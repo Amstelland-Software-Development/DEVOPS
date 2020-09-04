@@ -36,7 +36,7 @@ In deze taak gaan we een eerste commit doen binnen VS Code.
 2. Ga naar het Source-Control-paneel en vul als commit-message in: `spelfout gefixt` en druk op het vinkje om een `commit` te maken. 
    > LETOP: VS Code geeft je waarschijnlijk de volgende melding: Klik op `Yes`.
 
-   ![VS Code no stage commit message](https://github.com/Amstelland-Software-Development/DEVOPS/blob/master/03-Versiebeheer/taak03%20-%20Git%20Commit/img/vs-code-alert-commit-no-stage.jpg)
+   ![VS Code no stage commit img](https://github.com/Amstelland-Software-Development/DEVOPS/blob/master/03-Versiebeheer/taak03%20-%20Git%20Commit/img/vs-code-alert-commit-no-stage.jpg)
 
 3. Je hebt nu je eerste commit gemaakt. Gefeliciteerd. Er zullen er nog velen volgen :) In de volgende taak gaan we kijken hoe je de wijzigingen in jouw lokale repository uploadt naar de repository op Github.
 
