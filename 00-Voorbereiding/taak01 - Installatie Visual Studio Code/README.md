@@ -2,7 +2,7 @@
 
 ## Installatie Visual Studio Code
 
-**LETOP: ook als je Git al hebt geinstalleerd: lees de onderstaande taak goed door en zorg ervoor dat alles werkt zoals verwacht wordt.**
+**LETOP: ook als je VS Code al hebt geinstalleerd: lees de onderstaande taak goed door en zorg ervoor dat alles werkt zoals verwacht wordt.**
 
 ## Uitleg
 
