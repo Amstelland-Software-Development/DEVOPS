@@ -46,7 +46,14 @@ Opvolgende taken in deze module maken je wegwijs in de werking van Git en Github
 
     > git config --global user.name "Bill Gates" <kbd>enter</kbd>  
     > git config --global user.email "bill.gates@student.rocva.nl" <kbd>enter</kbd>
-3. Ga naar [Github](http://www.github.com) en maak een nieuwe account aan, letop: lees onderstaande punten goed door en hou je daar aan:
+
+3. Git geeft geen melding of de commandos van hierboven goed zijn opgeslagen. Check daarom of het gelukt is door je globale settings in Git te tonen via onderstaand commando:
+   ```cmd
+    git config --list
+   ```
+   > LETOP: Git toont nu alle globale user settings en dat zijn er een stuk meer dan alleen `user.name`en `user.email`. Omdat deze lijst niet in één scherm past kom je in een interactieve view terecht waar je met <kbd>enter</kbd> telkens een regel extra toont en met de letter `q` deze view afsluit om weer in je terminal te komen. 
+
+4. Ga naar [Github](http://www.github.com) en maak een nieuwe account aan, letop: lees onderstaande punten goed door en hou je daar aan:
    > Punt 1: Kies een representatieve naam. Deze naam gaat gezien worden door de mensen die straks beslissen of jij een stageplek of baan krijgt, kies bij voorkeur een accountnaam die bestaat uit je voornaam en achternaam.  
 
    > Punt 2: gebruik je voornaam.achternaam@student.rocva.nl mail account om je aan te melden. 
