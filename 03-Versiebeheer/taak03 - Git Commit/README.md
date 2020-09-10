@@ -12,7 +12,7 @@ Wat je dus eigenlijk doet is het opslaan van een bepaalde versie van bestanden i
 
 Als je aan het werk bent in een project, ben je vaak in meedere bestanden tegelijk bezig en focus je je op wat je aan het maken bent. Als je goed is heb je VS Code zo ingesteld dat deze automatisch bestanden voor je opslaat (of doe je dit zelf constant met <kbd>CTRL</kbd>+<kbd>S</kbd>) én werk je in een onedrive map zodat er ook altijd een versie online staat.
 
-### Commite message
+### Commit message
 
 Git kan de veranderingen in honderden tot vele duizenden bestanden efficient voor je bijhouden, maar dat wil niet zeggen dat jij zelf op basis van die veranderingen goed kan zien met welke versie van een bepaald bestand je te maken hebt, zeker wanneer het gaat om veranderingen van meerdere bestanden samen. Daarom schrijf je altijd een kort stukje tekst, een zogenaamde Commit-Message als je bestanden toevoegt aan een repository. Op basis van die commit message kan jij dan zien wat er veranderd is. Het is dus belangrijk dat je een heldere, duidelijke beschrijving geeft van de verandering. In dit geval is de ongeschreven regel dat een Commit-Message schrijft zoals `added nieuw-bestand.txt` of `update index.html`.
 
