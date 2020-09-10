@@ -66,3 +66,9 @@ Je hebt Git geinstalleerd op je laptop en als je dit test binnen een terminal in
 
 [Instellen naam en email in Git](https://linuxize.com/post/how-to-configure-git-username-and-email/)  
 [Github account aanmaken uitleg](https://www.wikihow.com/Create-an-Account-on-GitHub)
+
+<!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
+------------------ ------------------------------ ------------
+------------------ eagle ref:70625497
+------------------ ------------------------------ ------------
+------------------ DIT COMMENTAAR LATEN STAAN AUB -------- -->
