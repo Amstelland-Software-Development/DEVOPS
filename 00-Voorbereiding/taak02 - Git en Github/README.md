@@ -36,16 +36,16 @@ Opvolgende taken in deze module maken je wegwijs in de werking van Git en Github
     Open een nieuwe terminal in VS Code en voer de 2 onderstaande commandos uit:
    
     ```cmd
-    git config --global user.name = "Je voornaam en achternaam"
+    git config --global user.name "Je voornaam en achternaam"
     ```
     en
     ```cmd
-    git config --global user.email = "voornaam.achternaam@student.rocva.nl"
+    git config --global user.email "voornaam.achternaam@student.rocva.nl"
     ```
     > LETOP: Vul dus tussen de `"` en `"` jouw gegevens in. Dus als voorbeeld:  
 
-    > git config --global user.name = "Bill Gates" <kbd>enter</kbd>  
-    > git config --global user.email = "bill.gates@student.rocva.nl" <kbd>enter</kbd>
+    > git config --global user.name "Bill Gates" <kbd>enter</kbd>  
+    > git config --global user.email "bill.gates@student.rocva.nl" <kbd>enter</kbd>
 3. Ga naar [Github](http://www.github.com) en maak een nieuwe account aan, letop: lees onderstaande punten goed door en hou je daar aan:
    > Punt 1: Kies een representatieve naam. Deze naam gaat gezien worden door de mensen die straks beslissen of jij een stageplek of baan krijgt, kies bij voorkeur een accountnaam die bestaat uit je voornaam en achternaam.  
 
